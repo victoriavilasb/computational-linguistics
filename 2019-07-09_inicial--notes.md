@@ -18,7 +18,9 @@
 
   > **Important: Search for Facebook Graph Search** 
 
+
 **How we learn a language:**
+
 If we look on how a sentence can be a valid sentence without having meaning teachs us that we dont learn any language based on a huge database of possible or impossible words or sentences. It can be more like undestanding the relation between words in that sentence. 
 
 ### The difference between a native speaker and a computer

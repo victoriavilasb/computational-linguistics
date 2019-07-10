@@ -39,3 +39,17 @@ If we look on how a sentence can be a valid sentence without having meaning teac
 - Can take language as input.
 - Then create a computer that has functions and methods that mimic each of those capabilities.
 - Reinforcement learning.
+
+<br/>
+
+### What are the things computer can do with language?
+
+  >  **TO DO:** Detail those topics
+
+- Data classification
+
+  >**TO DO:** How spam filtering works
+
+- Natural Language Processing
+- Machine Translation
+- Much more!

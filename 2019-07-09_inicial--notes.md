@@ -28,4 +28,12 @@ If we look on how a sentence can be a valid sentence without having meaning teac
 
 **Native speaker**
 
+- Learns a language from exposure to it.
+- Has a brain with language-learning capability.
+- learn from trial and error.
+
 **Computer**
+
+- Can take language as input.
+- Then create a computer that has functions and methods that mimic each of those capabilities.
+- Reinforcement learning.

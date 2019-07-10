@@ -8,3 +8,4 @@
 - [The Life of a Typeahead Query](https://code.fb.com/web/the-life-of-a-typeahead-query/)
 - [Under the Hood: The natural language interface of Graph Search](https://code.fb.com/web/under-the-hood-the-natural-language-interface-of-graph-search/)
 - [Under the Hood: Building out the infrastructure for Graph Search](https://code.fb.com/core-data/under-the-hood-building-out-the-infrastructure-for-graph-search/)
+- [Under the Hood: Building posts search](https://code.fb.com/core-data/under-the-hood-building-posts-search/)

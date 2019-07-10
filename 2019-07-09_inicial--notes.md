@@ -30,7 +30,8 @@ If we look on how a sentence can be a valid sentence without having meaning teac
 **Native speaker**
 
 - Learns a language from exposure to it.
-- Has a brain with language-learning capability.
+- Has a brain with language-learning capability. 
+  *(We are capable from making generalizations of we no. I child can say that some words are more like a non, others are more line adjectives.)*
 - learn from trial and error.
 
 **Computer**
